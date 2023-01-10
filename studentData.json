@@ -1,0 +1,82 @@
+[
+  {
+    "fullName": "Naman Agarwal",
+    "dateOfBirth": "12/12/2002",
+    "rollNumber": 111111,
+    "physics": 96,
+    "chemistry": 90,
+    "maths": 92
+  },
+  {
+    "fullName": "Saumya Kaushik",
+    "dateOfBirth": "10/04/2002",
+    "rollNumber": 111112,
+    "physics": 89,
+    "chemistry": 95,
+    "maths": 85
+  },
+  {
+    "fullName": "Arihant Jain",
+    "dateOfBirth": "15/05/2001",
+    "rollNumber": 111113,
+    "physics": 75,
+    "chemistry": 81,
+    "maths": 89
+  },
+  {
+    "fullName": "Sapna Singh",
+    "dateOfBirth": "01/01/2002",
+    "rollNumber": 111114,
+    "physics": 82,
+    "chemistry": 77,
+    "maths": 87
+  },
+  {
+    "fullName": "Naina Chawla",
+    "dateOfBirth": "02/04/2002",
+    "rollNumber": 111115,
+    "physics": 93,
+    "chemistry": 97,
+    "maths": 100
+  },
+  {
+    "fullName": "Rahul Raj",
+    "dateOfBirth": "07/08/2002",
+    "rollNumber": 111116,
+    "physics": 74,
+    "chemistry": 84,
+    "maths": 67
+  },
+  {
+    "fullName": "Rasika Bansal",
+    "dateOfBirth": "10/02/2002",
+    "rollNumber": 111117,
+    "physics": 75,
+    "chemistry": 87,
+    "maths": 81
+  },
+  {
+    "fullName": "Swabhimaan Shekhawat",
+    "dateOfBirth": "25/12/2001",
+    "rollNumber": 111118,
+    "physics": 100,
+    "chemistry": 95,
+    "maths": 96
+  },
+  {
+    "fullName": "Anuradha",
+    "dateOfBirth": "28/10/2002",
+    "rollNumber": 111119,
+    "physics": 87,
+    "chemistry": 75,
+    "maths": 71
+  },
+  {
+    "fullName": "Prateek Kumar",
+    "dateOfBirth": "17/07/2002",
+    "rollNumber": 111121,
+    "physics": 79,
+    "chemistry": 81,
+    "maths": 92
+  }
+]
